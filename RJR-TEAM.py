@@ -1,7 +1,5 @@
-# Gift By RAKIB HASAN JOY
-# Telegram Id : @cyber_sojib
-# Telegram : https://t.me/+5FZ7klkd9SQ0Yjg1
-# Facebook Group : https://facebook.com/groups/689113179420263/
+# Gift By KANXA BAAP
+# Telegram Id : @kanxa heroo
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os,sys,time,json,random,re,string,platform,base64,platform,uuid
@@ -81,9 +79,9 @@ logo =("""
 \033[1;91m  ██   ██  █████  ██   ██ \033[1;96m 2\033[1;97m .\033[1;98m 0
                                                                     
  ----------------------------------------------
-\033[1;32m•\033[1;37m CREATED BY  \033[1;32m •√\033[1;37m  RAKIB HASAN JOY
-\033[1;32m•\033[1;37m FACEBOOK    \033[1;32m •√\033[1;37m  RAKIB ON 
-\033[1;32m•\033[1;37m FRIENDS     \033[1;32m •√\033[1;37m  RJR TEAM
+\033[1;32m•\033[1;37m CREATED BY  \033[1;32m •√\033[1;37m  KANXA BAU
+\033[1;32m•\033[1;37m FACEBOOK    \033[1;32m •√\033[1;37m  Díamond Seller Kanxa
+\033[1;32m•\033[1;37m FRIENDS     \033[1;32m •√\033[1;37m  Kanxa ream
 \033[1;32m•\033[1;37m TOOLS       \033[1;32m •√\033[1;37m  FREE
 \033[1;32m•\033[1;37m VERSION     \033[1;32m •√\033[1;37m  \033[1;32m1.0\033[1;37m 
 ------------------------------------------------""") 
